@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ts-mirath-faraid",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_mirath_faraid",
+      "description": "Execute mirath-faraid MCP tool"
+    }
+  ]
+}
